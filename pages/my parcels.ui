@@ -352,11 +352,6 @@ border-left: 10px solid rgb(0, 0, 255);</string>
      <string notr="true">border: none;
 border-bottom: 3px solid rgb(245, 0, 87);</string>
     </property>
-    <item>
-     <property name="text">
-      <string>100000000000000</string>
-     </property>
-    </item>
    </widget>
    <widget class="QLabel" name="label_4">
     <property name="geometry">
@@ -421,7 +416,7 @@ border-bottom: 3px solid rgb(245, 0, 87);</string>
      <string notr="true">color: rgb(245, 0, 87);</string>
     </property>
     <property name="text">
-     <string>100000000</string>
+     <string/>
     </property>
    </widget>
    <widget class="QLabel" name="label_7">
@@ -676,7 +671,7 @@ border-bottom: 3px solid rgb(245, 0, 87);</string>
      <string notr="true">color: rgb(245, 0, 87);</string>
     </property>
     <property name="text">
-     <string>Books</string>
+     <string/>
     </property>
    </widget>
    <widget class="QLabel" name="label_19">
@@ -719,7 +714,7 @@ border-bottom: 3px solid rgb(245, 0, 87);</string>
      <string notr="true">color: rgb(245, 0, 87);</string>
     </property>
     <property name="text">
-     <string>dd - mon - YYYY</string>
+     <string/>
     </property>
    </widget>
    <widget class="QTextBrowser" name="textBrowser">
@@ -761,7 +756,7 @@ margin: 1px;</string>
      <string notr="true">color: rgb(245, 0, 87);</string>
     </property>
     <property name="text">
-     <string>COD</string>
+     <string/>
     </property>
    </widget>
   </widget>
