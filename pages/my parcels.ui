@@ -579,7 +579,7 @@ border-bottom: 3px solid rgb(245, 0, 87);</string>
      <string notr="true">color: rgb(245, 0, 87);</string>
     </property>
     <property name="text">
-     <string>Kgs -</string>
+     <string>Kg -</string>
     </property>
    </widget>
    <widget class="QLabel" name="label_15">

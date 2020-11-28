@@ -525,7 +525,7 @@ border-left: 10px solid rgb(0, 0, 255);</string>
      </font>
     </property>
     <property name="text">
-     <string>100001</string>
+     <string/>
     </property>
    </widget>
    <widget class="QLabel" name="label_4">
@@ -546,7 +546,7 @@ border-left: 10px solid rgb(0, 0, 255);</string>
      <string notr="true">background-color: rgba(255, 255, 255, 0);</string>
     </property>
     <property name="text">
-     <string>Mr. Your Name</string>
+     <string/>
     </property>
    </widget>
    <widget class="QLabel" name="label_5">
@@ -583,7 +583,7 @@ border-left: 10px solid rgb(0, 0, 255);</string>
      </font>
     </property>
     <property name="text">
-     <string>9999999999</string>
+     <string/>
     </property>
    </widget>
    <widget class="QLabel" name="label_7">
@@ -601,7 +601,7 @@ border-left: 10px solid rgb(0, 0, 255);</string>
      </font>
     </property>
     <property name="text">
-     <string>Customer</string>
+     <string/>
     </property>
    </widget>
    <widget class="QComboBox" name="comboBox">

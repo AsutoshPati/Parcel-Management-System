@@ -434,8 +434,8 @@ border-left: 10px solid rgb(85, 255, 255);
     <property name="font">
      <font>
       <pointsize>11</pointsize>
-      <weight>75</weight>
-      <bold>true</bold>
+      <weight>50</weight>
+      <bold>false</bold>
      </font>
     </property>
     <property name="text">
@@ -454,8 +454,8 @@ border-left: 10px solid rgb(85, 255, 255);
     <property name="font">
      <font>
       <pointsize>11</pointsize>
-      <weight>75</weight>
-      <bold>true</bold>
+      <weight>50</weight>
+      <bold>false</bold>
      </font>
     </property>
     <property name="styleSheet">
@@ -477,8 +477,8 @@ border-left: 10px solid rgb(85, 255, 255);
     <property name="font">
      <font>
       <pointsize>11</pointsize>
-      <weight>75</weight>
-      <bold>true</bold>
+      <weight>50</weight>
+      <bold>false</bold>
      </font>
     </property>
     <property name="text">
@@ -497,8 +497,8 @@ border-left: 10px solid rgb(85, 255, 255);
     <property name="font">
      <font>
       <pointsize>11</pointsize>
-      <weight>75</weight>
-      <bold>true</bold>
+      <weight>50</weight>
+      <bold>false</bold>
      </font>
     </property>
     <property name="styleSheet">
@@ -540,10 +540,18 @@ border-left: 10px solid rgb(85, 255, 255);
       <height>40</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <pointsize>11</pointsize>
+     </font>
+    </property>
     <property name="styleSheet">
      <string notr="true">border: none;
 border-bottom: 5px solid rgb(245, 0, 87);
 background-color: rgba(255, 255, 255, 0.5);</string>
+    </property>
+    <property name="placeholderText">
+     <string>8 digit parcel Id</string>
     </property>
    </widget>
    <widget class="QLabel" name="label_14">
@@ -647,6 +655,52 @@ border-radius: 20px;</string>
      <string>Return</string>
     </property>
    </widget>
+   <widget class="QLabel" name="label_15">
+    <property name="geometry">
+     <rect>
+      <x>680</x>
+      <y>420</y>
+      <width>171</width>
+      <height>40</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>11</pointsize>
+      <weight>50</weight>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgba(255, 255, 255, 0.5);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_16">
+    <property name="geometry">
+     <rect>
+      <x>680</x>
+      <y>380</y>
+      <width>171</width>
+      <height>40</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>11</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgba(255, 255, 255, 0.5);</string>
+    </property>
+    <property name="text">
+     <string>Payment Type</string>
+    </property>
+   </widget>
    <zorder>pushButton</zorder>
    <zorder>pushButton_2</zorder>
    <zorder>pushButton_3</zorder>
@@ -675,6 +729,8 @@ border-radius: 20px;</string>
    <zorder>pushButton_6</zorder>
    <zorder>pushButton_10</zorder>
    <zorder>pushButton_11</zorder>
+   <zorder>label_15</zorder>
+   <zorder>label_16</zorder>
   </widget>
  </widget>
  <resources/>
