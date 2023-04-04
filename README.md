@@ -43,6 +43,9 @@ install them before running the code.
 pip install PyQt5==5.15.7
 pip install PyQtWebEngine==5.15.4
 ```
+Don't want to install python or any other packages, simply move to ```dist``` directory and 
+[download](https://github.com/AsutoshPati/Parcel-Management-System/tree/main/dist) ```PMS-one-file.exe``` or 
+```PMS-one-dir.zip``` extract and run the application.
 
 <br>
 
